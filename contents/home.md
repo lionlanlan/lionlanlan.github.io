@@ -1,20 +1,15 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
-
+[![lionlanlan](https://img.shields.io/badge/lionlanlan-github-blue?logo=github)](https://github.com/lionlanlan)
+I'm currently pursuing a Ph.D degree in HKUST(GZ) at the Department of SMMG, The Hong Kong University of Science and Technology, Guang Zhou, China.
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>she209@connect.hkust-gz.edu.cn</code>  
+
+#### Research Experience
+**CUHK**,Research Assistant at Hong Kong Eye Hospital(2023-2024)
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
-
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Shandong University**, Honours Bachelor of Engineering
+**CUHK**,Master of Science 
 
 #### Research Interests  
-XX, XX, XX, XX.
+deep learning, sensing, Time series forecasting
