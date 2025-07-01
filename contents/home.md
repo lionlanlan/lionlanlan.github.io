@@ -8,7 +8,8 @@ I'm currently pursuing a Ph.D degree in HKUST(GZ) at the Department of SMMG, The
 **CUHK**,Research Assistant at Hong Kong Eye Hospital(2023-2024)
 
 #### Education  
-**Shandong University**, Honours Bachelor of Engineering
+**Shandong University**, Honours Bachelor of Engineering  
+ 
 **CUHK**,Master of Science 
 
 #### Research Interests  
