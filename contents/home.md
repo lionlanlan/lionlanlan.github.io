@@ -1,6 +1,6 @@
 
 [![lionlanlan](https://img.shields.io/badge/lionlanlan-github-blue?logo=github)](https://github.com/lionlanlan)
-I'm currently pursuing a Ph.D degree in HKUST(GZ) at the Department of SMMG, The Hong Kong University of Science and Technology, Guang Zhou, China.
+I'm currently researching in The Hong Kong University of Science and Technology, Guang Zhou, China.
 #### Email  
 <code>she209@connect.hkust-gz.edu.cn</code>  
 
